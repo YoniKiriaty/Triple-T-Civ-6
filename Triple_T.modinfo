@@ -22,6 +22,9 @@
             <File>Mini_Sahur_Text.xml</File>
             <File>Leader_Triple_T_Text.xml</File>
         </UpdateText>
+        <UpdateIcons id="Icons">
+            <File>Leader_Triple_T_Icons.xml</File>
+        </UpdateIcons>
     </FrontEndActions>
     <InGameActions>
         <UpdateDatabase id="Gameplay">
@@ -32,9 +35,9 @@
             <File>Mini_Sahur_Text.xml</File>
             <File>Leader_Triple_T_Text.xml</File>
         </UpdateText>
-        <!-- <UpdateIcons id="XML_IconDefinition">
-            <File>Bakery_Building_Icons.xml</File>
-        </UpdateIcons> -->
+        <UpdateIcons id="XML_IconDefinition">
+            <File>Leader_Triple_T_Icons.xml</File>
+        </UpdateIcons>
         <!-- <ImportFiles id="LUA_Imports">
             <File>A.lua</File>
         </ImportFiles>
