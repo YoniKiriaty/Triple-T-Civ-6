@@ -16,6 +16,7 @@
             <Description>LOC_CIVILIZATION_BRAINROT_DSH_DESCRIPTION</Description>
             <Adjective>LOC_CIVILIZATION_BRAINROT_DSH_ADJECTIVE</Adjective>
             <StartingCivilizationLevelType>CIVILIZATION_LEVEL_FULL_CIV</StartingCivilizationLevelType>
+            <Icon>ICON_CIVILIZATION_BRAINROT_DSH</Icon>
             <Ethnicity>ETHNICITY_EURO</Ethnicity>
             <RandomCityNameDepth>10</RandomCityNameDepth>
 
