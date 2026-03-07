@@ -30,6 +30,8 @@
             <File>Triple_T_Icons/Leader/45.dds</File>
             <File>Triple_T_Icons/Civ/256.dds</File>
             <File>Triple_T_Icons/Civ/45.dds</File>
+            <File>Triple_T_Icons/Portrait.dds</File>
+
         </ImportFiles>
     </FrontEndActions>
     <InGameActions>
@@ -62,6 +64,10 @@
             <File>Triple_T_Icons/Civ/36.dds</File>
             <File>Triple_T_Icons/Civ/30.dds</File>
             <File>Triple_T_Icons/Civ/22.dds</File>
+            <File>Triple_T_Icons/Diplomacy.dds</File>
+            <File>Triple_T_Icons/Portrait.dds</File>
+
+
         </ImportFiles>
         <!-- <ImportFiles id="LUA_Imports">
             <File>A.lua</File>
@@ -94,5 +100,7 @@
         <File>Triple_T_Icons/Civ/36.dds</File>
         <File>Triple_T_Icons/Civ/30.dds</File>
         <File>Triple_T_Icons/Civ/22.dds</File>
+        <File>Triple_T_Icons/Diplomacy.dds</File>
+        <File>Triple_T_Icons/Portrait.dds</File>
     </Files>
 </Mod>

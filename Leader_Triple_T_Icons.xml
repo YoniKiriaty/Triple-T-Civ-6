@@ -23,5 +23,6 @@
     <IconDefinitions>
         <Row Name="ICON_LEADER_TRIPLE_T_DSH" Atlas="ICON_ATLAS_TRIPLE_T_DSH" Index="0"/>
         <Row Name="ICON_CIVILIZATION_BRAINROT_DSH" Atlas="ICON_ATLAS_BRAINROT_DSH_CIV" Index="0"/>
+        <Row Name="ICON_LEADER_TRIPLE_T_DSH_PORTRAIT" Atlas="ICON_ATLAS_TRIPLE_T_PORTRAIT" Index="0"/>
     </IconDefinitions>
 </GameInfo>

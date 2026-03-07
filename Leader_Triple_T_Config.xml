@@ -17,4 +17,11 @@
         </Row>
 
     </Players>
+    <PlayerItems>
+        <Row>
+            <Domain>Players:Expansion2_Players</Domain>
+            <CivilizationType>CIVILIZATION_BRAINROT_DSH</CivilizationType>
+            <LeaderType>LEADER_TRIPLE_T_DSH</LeaderType>
+        </Row>
+    </PlayerItems>
 </GameInfo>
