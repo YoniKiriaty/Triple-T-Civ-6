@@ -17,15 +17,4 @@
         </Row>
 
     </Players>
-
-    <!-- <PlayerItems>
-        <Row>
-            <CivilizationType>CIVILIZATION_BRAINROT_DSH</CivilizationType>
-            <LeaderType>LEADER_TRIPLE_T_DSH</LeaderType>
-            <Type>BUILDING_SAHURINI</Type>
-            <Icon>ICON_BUILDING_SAHURINI</Icon>
-            <Name>LOC_BUILDING_SAHURINI_NAME</Name>
-            <Description>LOC_BUILDING_SAHURINI_DESCRIPTION</Description>
-        </Row>
-    </PlayerItems> -->
 </GameInfo>

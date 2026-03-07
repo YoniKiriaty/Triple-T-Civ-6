@@ -27,13 +27,6 @@
             <Text>All units gain +1 Movement during the first 20 turns of an Era. Domestic [ICON_TradeRoute] Trade Routes provide +2 [ICON_Food] Food to the starting city (to prepare for the fast).</Text>
         </Row>
 
-        <Row Tag="LOC_BUILDING_SAHURINI_NAME" Language="en_US">
-            <Text>Sahurini Arena</Text>
-        </Row>
-        <Row Tag="LOC_BUILDING_SAHURINI_DESCRIPTION" Language="en_US">
-            <Text>Brainrot unique building that replaces the Arena. Provides +3 [ICON_Amenities] Amenities and +2 [ICON_Culture] Culture. Boosts the [ICON_Pressure] Religious Pressure of this city by 100%.</Text>
-        </Row>
-
         <Row Tag="LOC_LOADING_INFO_LEADER_DEFAULT" Language="en_US">
             <Text>Tung Tung Tung... SAHUR! Wake up, Great Leader, for the attention spans of your people are dwindling. Under your guidance, the Brainrot Empire will mog the world, taxing every Fanum and achieving the ultimate Skibidi victory. Let the beat of your drum wake the neighbors and the nations alike.</Text>
         </Row>
