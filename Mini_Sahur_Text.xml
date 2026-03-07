@@ -1,0 +1,10 @@
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_UNIT_MINI_SAHUR_DSH_NAME" Language="en_US">
+            <Text>Mini Sahur</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_MINI_SAHUR_DSH_DESCRIPTION" Language="en_US">
+            <Text>A very tuff unit</Text>
+        </Row>
+    </LocalizedText>
+</GameData>

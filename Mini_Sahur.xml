@@ -1,0 +1,26 @@
+<GameData>
+    <Types>
+        <Row>
+            <Type>UNIT_MINI_SAHUR_DSH</Type>
+            <Kind>KIND_UNIT</Kind>
+        </Row>
+    </Types>
+    <Units>
+        <Row>
+            <UnitType>UNIT_MINI_SAHUR_DSH</UnitType>
+            <Name>LOC_UNIT_MINI_SAHUR_DSH_NAME</Name>
+            <Description>LOC_UNIT_MINI_SAHUR_DSH_DESCRIPTION</Description>
+            <PurchaseYield>YIELD_GOLD</PurchaseYield>
+            <Cost>30</Cost>
+            <AdvisorType>ADVISOR_GENERIC</AdvisorType>
+            <BaseSightRange>1</BaseSightRange>
+            <BaseMoves>3</BaseMoves>
+            <Combat>30</Combat>
+            <FormationClass>FORMATION_CLASS_LAND_COMBAT</FormationClass>
+            <PromotionClass>PROMOTION_CLASS_MELEE</PromotionClass>
+            <Domain>DOMAIN_LAND</Domain>
+            <ZoneOfControl>1</ZoneOfControl>
+        </Row>
+    </Units>
+
+</GameData>
