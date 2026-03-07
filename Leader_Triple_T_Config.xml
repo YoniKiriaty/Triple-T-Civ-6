@@ -1,0 +1,31 @@
+<GameInfo>
+    <Players>
+        <Row>
+            <Domain>Players:Expansion2_Players</Domain>
+            <CivilizationType>CIVILIZATION_BRAINROT_DSH</CivilizationType>
+            <LeaderType>LEADER_TRIPLE_T_DSH</LeaderType>
+            <CivilizationName>LOC_CIVILIZATION_BRAINROT_DSH_NAME</CivilizationName>
+            <CivilizationIcon>ICON_CIVILIZATION_BRAINROT_DSH</CivilizationIcon>
+            <LeaderName>LOC_LEADER_TRIPLE_T_DSH_NAME</LeaderName>
+            <LeaderIcon>ICON_LEADER_TRIPLE_T_DSH</LeaderIcon>
+            <CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_BRAINROT_DSH_NAME</CivilizationAbilityName>
+            <CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_BRAINROT_DSH_DESCRIPTION</CivilizationAbilityDescription>
+            <CivilizationAbilityIcon>ICON_CIVILIZATION_BRAINROT_DSH</CivilizationAbilityIcon>
+            <LeaderAbilityName>LOC_TRAIT_LEADER_TRIPLE_T_DSH_BEAT_NAME</LeaderAbilityName>
+            <LeaderAbilityDescription>LOC_TRAIT_LEADER_TRIPLE_T_DSH_BEAT_DESCRIPTION</LeaderAbilityDescription>
+            <LeaderAbilityIcon>ICON_LEADER_TRIPLE_T_DSH</LeaderAbilityIcon>
+        </Row>
+
+    </Players>
+
+    <!-- <PlayerItems>
+        <Row>
+            <CivilizationType>CIVILIZATION_BRAINROT_DSH</CivilizationType>
+            <LeaderType>LEADER_TRIPLE_T_DSH</LeaderType>
+            <Type>BUILDING_SAHURINI</Type>
+            <Icon>ICON_BUILDING_SAHURINI</Icon>
+            <Name>LOC_BUILDING_SAHURINI_NAME</Name>
+            <Description>LOC_BUILDING_SAHURINI_DESCRIPTION</Description>
+        </Row>
+    </PlayerItems> -->
+</GameInfo>
