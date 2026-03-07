@@ -48,10 +48,10 @@
         <Row Type="LEADER_TRIPLE_T_DSH" Usage="Unique" PrimaryColor="COLOR_PLAYER_BRAINROT_DSH_PRIMARY1" SecondaryColor="COLOR_PLAYER_BRAINROT_DSH_SECONDARY1" TextColor="COLOR_PLAYER_BRAINROT_DSH_TEXT1" />
     </PlayerColors>
     <LoadingInfo>
-        <Row LeaderType="LEADER_TRIPLE_T_DSH" ForegroundImage="LEADER_TRIPLE_T_DSH_NEUTRAL" BackgroundImage="LEADER_GORGO_BACKGROUND" EraText="LOC_LOADING_INFO_LEADER_DEFAULT" PlayDawnOfManAudio="0"/>
+        <Row LeaderType="LEADER_TRIPLE_T_DSH" ForegroundImage="Triple_T_Icons/Portrait.dds" BackgroundImage="LEADER_GORGO_BACKGROUND" EraText="LOC_LOADING_INFO_LEADER_DEFAULT" PlayDawnOfManAudio="1"/>
     </LoadingInfo>
     <DiplomacyInfo>
-        <Row Type="LEADER_TRIPLE_T_DSH" BackgroundImage="LEADER_TRIPLE_T_DSH_BACKGROUND"/>
+        <Row Type="LEADER_TRIPLE_T_DSH" BackgroundImage="Triple_T_Icons/Diplomacy.dds"/>
     </DiplomacyInfo>
     <CityNames>
         <Row CivilizationType="CIVILIZATION_BRAINROT_DSH" CityName="Tralalelo Tralala"/>

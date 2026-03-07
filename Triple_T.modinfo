@@ -25,6 +25,12 @@
         <UpdateIcons id="Icons">
             <File>Leader_Triple_T_Icons.xml</File>
         </UpdateIcons>
+        <ImportFiles id="FrontEnd_Brainrot_Imports">
+            <File>Triple_T_Icons/Leader/256.dds</File>
+            <File>Triple_T_Icons/Leader/45.dds</File>
+            <File>Triple_T_Icons/Civ/256.dds</File>
+            <File>Triple_T_Icons/Civ/45.dds</File>
+        </ImportFiles>
     </FrontEndActions>
     <InGameActions>
         <UpdateDatabase id="Gameplay">
@@ -38,6 +44,25 @@
         <UpdateIcons id="XML_IconDefinition">
             <File>Leader_Triple_T_Icons.xml</File>
         </UpdateIcons>
+        <ImportFiles id="Brainrot_Imports">
+            <File>Triple_T_Icons/Leader/32.dds</File>
+            <File>Triple_T_Icons/Leader/45.dds</File>
+            <File>Triple_T_Icons/Leader/50.dds</File>
+            <File>Triple_T_Icons/Leader/55.dds</File>
+            <File>Triple_T_Icons/Leader/64.dds</File>
+            <File>Triple_T_Icons/Leader/80.dds</File>
+            <File>Triple_T_Icons/Leader/256.dds</File>
+            <File>Triple_T_Icons/Civ/256.dds</File>
+            <File>Triple_T_Icons/Civ/128.dds</File>
+            <File>Triple_T_Icons/Civ/80.dds</File>
+            <File>Triple_T_Icons/Civ/64.dds</File>
+            <File>Triple_T_Icons/Civ/50.dds</File>
+            <File>Triple_T_Icons/Civ/45.dds</File>
+            <File>Triple_T_Icons/Civ/44.dds</File>
+            <File>Triple_T_Icons/Civ/36.dds</File>
+            <File>Triple_T_Icons/Civ/30.dds</File>
+            <File>Triple_T_Icons/Civ/22.dds</File>
+        </ImportFiles>
         <!-- <ImportFiles id="LUA_Imports">
             <File>A.lua</File>
         </ImportFiles>
@@ -47,10 +72,27 @@
     </InGameActions>
     <Files>
         <File>Mini_Sahur.xml</File>
-        <!-- <File>Bakery_Building_Icons.xml</File> -->
         <File>Mini_Sahur_Text.xml</File>
         <File>Leader_Triple_T.xml</File>
         <File>Leader_Triple_T_Text.xml</File>
         <File>Leader_Triple_T_Config.xml</File>
+        <File>Leader_Triple_T_Icons.xml</File>
+        <File>Triple_T_Icons/Leader/32.dds</File>
+        <File>Triple_T_Icons/Leader/45.dds</File>
+        <File>Triple_T_Icons/Leader/50.dds</File>
+        <File>Triple_T_Icons/Leader/55.dds</File>
+        <File>Triple_T_Icons/Leader/64.dds</File>
+        <File>Triple_T_Icons/Leader/80.dds</File>
+        <File>Triple_T_Icons/Leader/256.dds</File>
+        <File>Triple_T_Icons/Civ/256.dds</File>
+        <File>Triple_T_Icons/Civ/128.dds</File>
+        <File>Triple_T_Icons/Civ/80.dds</File>
+        <File>Triple_T_Icons/Civ/64.dds</File>
+        <File>Triple_T_Icons/Civ/50.dds</File>
+        <File>Triple_T_Icons/Civ/45.dds</File>
+        <File>Triple_T_Icons/Civ/44.dds</File>
+        <File>Triple_T_Icons/Civ/36.dds</File>
+        <File>Triple_T_Icons/Civ/30.dds</File>
+        <File>Triple_T_Icons/Civ/22.dds</File>
     </Files>
 </Mod>
