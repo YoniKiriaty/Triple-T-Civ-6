@@ -1,31 +1,30 @@
--- 1. Define the Atlases (Pointing to your actual image files)
+-- 1. Define the Atlases
 INSERT INTO IconTextureAtlases (Name, IconSize, IconsPerRow, IconsPerColumn, Filename)
 VALUES  
--- Civilization Icons
-('ICON_ATLAS_BRAINROT_DSH_CIV', 22, 1, 1, 'Icons/Brainrot_Civ_22.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 30, 1, 1, 'Icons/Brainrot_Civ_30.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 36, 1, 1, 'Icons/Brainrot_Civ_36.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 44, 1, 1, 'Icons/Brainrot_Civ_44.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 45, 1, 1, 'Icons/Brainrot_Civ_45.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 50, 1, 1, 'Icons/Brainrot_Civ_50.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 64, 1, 1, 'Icons/Brainrot_Civ_64.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 80, 1, 1, 'Icons/Brainrot_Civ_80.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 128, 1, 1, 'Icons/Brainrot_Civ_128.dds'),
-('ICON_ATLAS_BRAINROT_DSH_CIV', 256, 1, 1, 'Icons/Brainrot_Civ_256.dds'),
+-- Civilization Icons (Prefix matches 'Brainrot_Civ_##')
+('Brainrot_Civ', 22, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 30, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 36, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 44, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 45, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 50, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 64, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 80, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 128, 1, 1, 'Triple_T'),
+('Brainrot_Civ', 256, 1, 1, 'Triple_T'),
 
+-- Leader Icons (Prefix matches 'Triple_T_##')
+('Triple_T', 32, 1, 1, 'Triple_T'),
+('Triple_T', 45, 1, 1, 'Triple_T'),
+('Triple_T', 50, 1, 1, 'Triple_T'),
+('Triple_T', 55, 1, 1, 'Triple_T'),
+('Triple_T', 64, 1, 1, 'Triple_T'),
+('Triple_T', 80, 1, 1, 'Triple_T'),
+('Triple_T', 256, 1, 1, 'Triple_T');
 
--- Leader Icons
-('ICON_ATLAS_TRIPLE_T_DSH_LEADER', 32, 1, 1, 'Icons/Triple_T_32.dds'),
-('ICON_ATLAS_TRIPLE_T_DSH_LEADER', 45, 1, 1, 'Icons/Triple_T_42.dds'),
-('ICON_ATLAS_TRIPLE_T_DSH_LEADER', 50, 1, 1, 'Icons/Triple_T_50.dds'),
-('ICON_ATLAS_TRIPLE_T_DSH_LEADER', 55, 1, 1, 'Icons/Triple_T_55.dds'),
-('ICON_ATLAS_TRIPLE_T_DSH_LEADER', 64, 1, 1, 'Icons/Triple_T_64.dds'),
-('ICON_ATLAS_TRIPLE_T_DSH_LEADER', 80, 1, 1, 'Icons/Triple_T_80.dds'),
-('ICON_ATLAS_TRIPLE_T_DSH_LEADER', 256, 1, 1, 'Icons/Triple_T_256.dds'),
-
--- 2. Define the Icons (Linking your database tags to the Atlases)
--- (Assuming your icons are just single images, the index is always 0)
+-- 2. Define the Icon Definitions
+-- These link the Gameplay Tags to the Atlases defined above
 INSERT INTO IconDefinitions (Name, Atlas, "Index")
 VALUES  
-('ICON_CIVILIZATION_BRAINROT_DSH', 'ICON_ATLAS_BRAINROT_DSH_CIV', 0),
-('ICON_LEADER_TRIPLE_T_DSH', 'ICON_ATLAS_TRIPLE_T_DSH_LEADER', 0);
+('ICON_CIVILIZATION_BRAINROT_DSH', 'Brainrot_Civ', 0),
+('ICON_LEADER_TRIPLE_T_DSH', 'Triple_T', 0);
