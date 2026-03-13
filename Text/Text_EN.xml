@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+
+        <Row Tag="LOC_CIVILIZATION_BRAINROT_DSH_NAME" Language="en_US">
+            <Text>Brainrot</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_BRAINROT_DSH_DESCRIPTION" Language="en_US">
+            <Text>Brainrot Empire</Text>
+        </Row>
+        <Row Tag="LOC_CIVILIZATION_BRAINROT_DSH_ADJECTIVE" Language="en_US">
+            <Text>Mogging</Text>
+        </Row>
+
+        <Row Tag="LOC_TRAIT_CIVILIZATION_BRAINROT_DSH_ABILITY_NAME" Language="en_US">
+            <Text>Empire Trait Name</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_BRAINROT_DSH_ABILITY_DESCRIPTION" Language="en_US">
+            <Text>Describe the civilization's unique bonus here.</Text>
+        </Row>
+
+        <Row Tag="LOC_CITY_NAME_BRAINROT_DSH_CAPITAL" Language="en_US">
+            <Text>Sahur</Text>
+        </Row>
+        <Row Tag="LOC_CITY_NAME_BRAINROT_DSH_SECOND_CITY" Language="en_US">
+            <Text>Tralalelo Tralala</Text>
+        </Row>
+
+        <Row Tag="LOC_LEADER_TRIPLE_T_DSH_NAME" Language="en_US">
+            <Text>Tung Tung Tung Sahur</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_TRIPLE_T_DSH_ABILITY_NAME" Language="en_US">
+            <Text>Leader Trait Name</Text>
+        </Row>
+        <Row Tag="LOC_TRAIT_LEADER_TRIPLE_T_DSH_ABILITY_DESCRIPTION" Language="en_US">
+            <Text>Describe the leader's unique bonus here.</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRIPLE_T_DSH_NAME_QUOTE" Language="en_US">
+            <Text>"This is the loading screen quote."</Text>
+        </Row>
+
+    </LocalizedText>
+</GameData>
