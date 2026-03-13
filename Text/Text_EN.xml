@@ -35,7 +35,7 @@
         <Row Tag="LOC_TRAIT_LEADER_TRIPLE_T_DSH_ABILITY_DESCRIPTION" Language="en_US">
             <Text>Describe the leader's unique bonus here.</Text>
         </Row>
-        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRIPLE_T_DSH_NAME_QUOTE" Language="en_US">
+        <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRIPLE_T_DSH_QUOTE" Language="en_US">
             <Text>"This is the loading screen quote."</Text>
         </Row>
 
