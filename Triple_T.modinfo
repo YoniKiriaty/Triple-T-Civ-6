@@ -14,6 +14,9 @@
     <UpdateText id="ConfigText_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
+    <UpdateIcons id="Icons_FrontEnd_Triple_T">
+      <File>Core/Icons.sql</File>
+    </UpdateIcons>
   </FrontEndActions>
 
   <InGameActions>
@@ -23,11 +26,15 @@
     <UpdateText id="Text_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
+    <UpdateIcons id="Icons_InGame_Triple_T">
+      <File>Core/Icons.sql</File>
+    </UpdateIcons>
   </InGameActions>
 
   <Files>
     <File>Config/Config.sql</File>
     <File>Core/Gameplay.sql</File>
     <File>Text/Text_EN.xml</File>
+    <File>Core/Icons.sql</File>
   </Files>
 </Mod>
