@@ -8,18 +8,19 @@
   </Properties>
 
   <FrontEndActions>
+
     <UpdateDatabase id="Config_Triple_T">
       <File>Config/Config.sql</File>
     </UpdateDatabase>
     <UpdateText id="ConfigText_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
-    <UpdateIcons id="Icons_FrontEnd_Triple_T">
-      <File>Core/Icons.sql</File>
-    </UpdateIcons>
     <UpdateArt id="Art_Config_Triple_T">
       <File>Triple_T_Art.Art.xml</File>
     </UpdateArt>
+    <UpdateIcons id="Icons_FrontEnd_Triple_T">
+      <File>Core/Icons.sql</File>
+    </UpdateIcons>
   </FrontEndActions>
 
   <InGameActions>
@@ -29,17 +30,12 @@
     <UpdateText id="Text_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
-    <UpdateIcons id="Icons_InGame_Triple_T">
-      <File>Core/Icons.sql</File>
-    </UpdateIcons>
     <UpdateArt id="Art_InGame_Triple_T">
       <File>Triple_T_Art.Art.xml</File>
     </UpdateArt>
-    <ImportFiles id="Import_BLPs">
-      <Items>
-        <File>Platforms/Windows/BLPs/Triple_T.blp</File>
-      </Items>
-    </ImportFiles>
+    <UpdateIcons id="Icons_InGame_Triple_T">
+      <File>Core/Icons.sql</File>
+    </UpdateIcons>
   </InGameActions>
 
   <Files>
@@ -50,4 +46,5 @@
     <File>Platforms/Windows/BLPs/Triple_T.blp</File>
     <File>Triple_T_Art.Art.xml</File>
   </Files>
+
 </Mod>
