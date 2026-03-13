@@ -8,19 +8,19 @@
   </Properties>
 
   <FrontEndActions>
-    <UpdateDatabase id="Config">
+    <UpdateDatabase id="Config_Triple_T">
       <File>Config/Config.sql</File>
     </UpdateDatabase>
-    <UpdateText id="ConfigText">
+    <UpdateText id="ConfigText_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
   </FrontEndActions>
 
   <InGameActions>
-    <UpdateDatabase id="Gameplay">
+    <UpdateDatabase id="Gameplay_Triple_T">
       <File>Core/Gameplay.sql</File>
     </UpdateDatabase>
-    <UpdateText id="Text">
+    <UpdateText id="Text_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
   </InGameActions>
