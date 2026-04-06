@@ -23,6 +23,8 @@ VALUES
 ('Triple_T', 80, 1, 1, 'Triple_T_80.dds'),
 ('Triple_T', 256, 1, 1, 'Triple_T_256.dds');
 
+
+
 -- 2. THE DEFINITIONS
 -- This links your Config.sql/Gameplay tags to the Atlas prefixes above
 -- Since your images are single icons (1x1 grid), the Index is always 0.

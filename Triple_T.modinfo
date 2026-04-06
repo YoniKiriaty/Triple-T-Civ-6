@@ -32,9 +32,16 @@
       <File>Icons/Brainrot_Civ_128.dds</File>
       <File>Icons/Brainrot_Civ_256.dds</File>
       <!-- Brainrot_Civ icons end -->
+
+      <!-- Diplomacy & Portrait start -->
+      <File>Icons/Diplomacy.dds</File>
+      <File>Icons/Portrait.dds</File>
+      <!-- Diplomacy & Portrait end -->
     </ImportFiles>
     <UpdateDatabase id="Config_Triple_T">
       <File>Config/Config.sql</File>
+      <File>Core/LeaderScreens.sql</File>
+
     </UpdateDatabase>
     <UpdateText id="ConfigText_Triple_T">
       <File>Text/Text_EN.xml</File>
@@ -69,9 +76,15 @@
       <File>Icons/Brainrot_Civ_128.dds</File>
       <File>Icons/Brainrot_Civ_256.dds</File>
       <!-- Brainrot_Civ icons end -->
+
+      <!-- Diplomacy & Portrait start -->
+      <File>Icons/Diplomacy.dds</File>
+      <File>Icons/Portrait.dds</File>
+      <!-- Diplomacy & Portrait end -->
     </ImportFiles>
     <UpdateDatabase id="Gameplay_Triple_T">
       <File>Core/Gameplay.sql</File>
+      <File>Core/LeaderScreens.sql</File>
     </UpdateDatabase>
     <UpdateText id="Text_Triple_T">
       <File>Text/Text_EN.xml</File>
@@ -86,6 +99,7 @@
     <File>Core/Gameplay.sql</File>
     <File>Text/Text_EN.xml</File>
     <File>Core/Icons.sql</File>
+    <File>Core/LeaderScreens.sql</File>
 
 
     <!-- Triple_T icons start -->
@@ -111,6 +125,11 @@
     <File>Icons/Brainrot_Civ_128.dds</File>
     <File>Icons/Brainrot_Civ_256.dds</File>
     <!-- Brainrot_Civ icons end -->
+
+    <!-- Diplomacy & Portrait start -->
+    <File>Icons/Diplomacy.dds</File>
+    <File>Icons/Portrait.dds</File>
+    <!-- Diplomacy & Portrait end -->
 
   </Files>
 
