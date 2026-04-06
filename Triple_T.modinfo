@@ -8,31 +8,74 @@
   </Properties>
 
   <FrontEndActions>
+    <ImportFiles id="Brainrot_UI_Imports_FrontEnd">
+      <!-- Triple_T icons start: -->
+      <File>Icons/Triple_T_32.dds</File>
+      <File>Icons/Triple_T_45.dds</File>
+      <File>Icons/Triple_T_50.dds</File>
+      <File>Icons/Triple_T_55.dds</File>
+      <File>Icons/Triple_T_64.dds</File>
+      <File>Icons/Triple_T_80.dds</File>
+      <File>Icons/Triple_T_256.dds</File>
+      <!-- Triple_T icons end: -->
 
+
+      <!-- Brainrot_Civ icons start: -->
+      <File>Icons/Brainrot_Civ_22.dds</File>
+      <File>Icons/Brainrot_Civ_30.dds</File>
+      <File>Icons/Brainrot_Civ_36.dds</File>
+      <File>Icons/Brainrot_Civ_44.dds</File>
+      <File>Icons/Brainrot_Civ_45.dds</File>
+      <File>Icons/Brainrot_Civ_50.dds</File>
+      <File>Icons/Brainrot_Civ_64.dds</File>
+      <File>Icons/Brainrot_Civ_80.dds</File>
+      <File>Icons/Brainrot_Civ_128.dds</File>
+      <File>Icons/Brainrot_Civ_256.dds</File>
+      <!-- Brainrot_Civ icons end: -->
+    </ImportFiles>
     <UpdateDatabase id="Config_Triple_T">
       <File>Config/Config.sql</File>
     </UpdateDatabase>
     <UpdateText id="ConfigText_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
-    <UpdateArt id="Art_Config_Triple_T">
-      <File>Triple_T_Art.Art.xml</File>
-    </UpdateArt>
     <UpdateIcons id="Icons_FrontEnd_Triple_T">
       <File>Core/Icons.sql</File>
     </UpdateIcons>
   </FrontEndActions>
 
   <InGameActions>
+    <ImportFiles id="Brainrot_UI_Imports_InGame">
+      <!-- Triple_T icons start: -->
+      <File>Icons/Triple_T_32.dds</File>
+      <File>Icons/Triple_T_45.dds</File>
+      <File>Icons/Triple_T_50.dds</File>
+      <File>Icons/Triple_T_55.dds</File>
+      <File>Icons/Triple_T_64.dds</File>
+      <File>Icons/Triple_T_80.dds</File>
+      <File>Icons/Triple_T_256.dds</File>
+      <!-- Triple_T icons end: -->
+
+
+      <!-- Brainrot_Civ icons start: -->
+      <File>Icons/Brainrot_Civ_22.dds</File>
+      <File>Icons/Brainrot_Civ_30.dds</File>
+      <File>Icons/Brainrot_Civ_36.dds</File>
+      <File>Icons/Brainrot_Civ_44.dds</File>
+      <File>Icons/Brainrot_Civ_45.dds</File>
+      <File>Icons/Brainrot_Civ_50.dds</File>
+      <File>Icons/Brainrot_Civ_64.dds</File>
+      <File>Icons/Brainrot_Civ_80.dds</File>
+      <File>Icons/Brainrot_Civ_128.dds</File>
+      <File>Icons/Brainrot_Civ_256.dds</File>
+      <!-- Brainrot_Civ icons end: -->
+    </ImportFiles>
     <UpdateDatabase id="Gameplay_Triple_T">
       <File>Core/Gameplay.sql</File>
     </UpdateDatabase>
     <UpdateText id="Text_Triple_T">
       <File>Text/Text_EN.xml</File>
     </UpdateText>
-    <UpdateArt id="Art_InGame_Triple_T">
-      <File>Triple_T_Art.Art.xml</File>
-    </UpdateArt>
     <UpdateIcons id="Icons_InGame_Triple_T">
       <File>Core/Icons.sql</File>
     </UpdateIcons>
@@ -43,8 +86,32 @@
     <File>Core/Gameplay.sql</File>
     <File>Text/Text_EN.xml</File>
     <File>Core/Icons.sql</File>
-    <File>Platforms/Windows/BLPs/Triple_T.blp</File>
-    <File>Triple_T_Art.Art.xml</File>
+
+
+    <!-- Triple_T icons start: -->
+    <File>Icons/Triple_T_32.dds</File>
+    <File>Icons/Triple_T_45.dds</File>
+    <File>Icons/Triple_T_50.dds</File>
+    <File>Icons/Triple_T_55.dds</File>
+    <File>Icons/Triple_T_64.dds</File>
+    <File>Icons/Triple_T_80.dds</File>
+    <File>Icons/Triple_T_256.dds</File>
+    <!-- Triple_T icons end: -->
+
+
+    <!-- Brainrot_Civ icons start: -->
+    <File>Icons/Brainrot_Civ_22.dds</File>
+    <File>Icons/Brainrot_Civ_30.dds</File>
+    <File>Icons/Brainrot_Civ_36.dds</File>
+    <File>Icons/Brainrot_Civ_44.dds</File>
+    <File>Icons/Brainrot_Civ_45.dds</File>
+    <File>Icons/Brainrot_Civ_50.dds</File>
+    <File>Icons/Brainrot_Civ_64.dds</File>
+    <File>Icons/Brainrot_Civ_80.dds</File>
+    <File>Icons/Brainrot_Civ_128.dds</File>
+    <File>Icons/Brainrot_Civ_256.dds</File>
+    <!-- Brainrot_Civ icons end: -->
+
   </Files>
 
 </Mod>
