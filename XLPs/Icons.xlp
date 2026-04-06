@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>253</build>
+		<revision>293</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Triple_T_256"/>
+			<m_ObjectName text="Triple_T_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triple_T_80"/>
+			<m_ObjectName text="Triple_T_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triple_T_64"/>
+			<m_ObjectName text="Triple_T_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triple_T_55"/>
+			<m_ObjectName text="Triple_T_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triple_T_50"/>
+			<m_ObjectName text="Triple_T_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triple_T_45"/>
+			<m_ObjectName text="Triple_T_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Triple_T_32"/>
+			<m_ObjectName text="Triple_T_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Brainrot_Civ_256"/>
+			<m_ObjectName text="Brainrot_Civ_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Brainrot_Civ_80"/>
+			<m_ObjectName text="Brainrot_Civ_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Brainrot_Civ_64"/>
+			<m_ObjectName text="Brainrot_Civ_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Brainrot_Civ_55"/>
+			<m_ObjectName text="Brainrot_Civ_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Brainrot_Civ_50"/>
+			<m_ObjectName text="Brainrot_Civ_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Brainrot_Civ_45"/>
+			<m_ObjectName text="Brainrot_Civ_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Brainrot_Civ_32"/>
+			<m_ObjectName text="Brainrot_Civ_32"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>
