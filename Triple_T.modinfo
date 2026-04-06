@@ -34,14 +34,14 @@
       <!-- Brainrot_Civ icons end -->
 
       <!-- Diplomacy & Portrait start -->
-      <File>Icons/Black_Background.dds</File>
-      <File>Icons/Portrait.dds</File>
+      <File>Icons/Transparent_Background.dds</File>
       <!-- Diplomacy & Portrait end -->
     </ImportFiles>
+    <UpdateArt id="Triple_T_Art_FrontEnd">
+      <File>Triple_T.dep</File>
+    </UpdateArt>
     <UpdateDatabase id="Config_Triple_T">
       <File>Config/Config.sql</File>
-      <File>Core/LeaderScreens.sql</File>
-
     </UpdateDatabase>
     <UpdateText id="ConfigText_Triple_T">
       <File>Text/Text_EN.xml</File>
@@ -78,10 +78,12 @@
       <!-- Brainrot_Civ icons end -->
 
       <!-- Diplomacy & Portrait start -->
-      <File>Icons/Black_Background.dds</File>
-      <File>Icons/Portrait.dds</File>
+      <File>Icons/Transparent_Background.dds</File>
       <!-- Diplomacy & Portrait end -->
     </ImportFiles>
+    <UpdateArt id="Triple_T_Art_InGame">
+      <File>Triple_T.dep</File>
+    </UpdateArt>
     <UpdateDatabase id="Gameplay_Triple_T">
       <File>Core/Gameplay.sql</File>
       <File>Core/LeaderScreens.sql</File>
@@ -127,8 +129,10 @@
     <!-- Brainrot_Civ icons end -->
 
     <!-- Diplomacy & Portrait start -->
-    <File>Icons/Black_Background.dds</File>
-    <File>Icons/Portrait.dds</File>
+    <File>Icons/Transparent_Background.dds</File>
+    <File>Triple_T.dep</File>
+    <File>LeaderFallbacks.artdef</File>
+    <File>Platforms/Windows/BLPs/LeaderFallbacks.blp</File>
     <!-- Diplomacy & Portrait end -->
 
   </Files>

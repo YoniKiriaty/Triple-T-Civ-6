@@ -36,7 +36,7 @@ VALUES  ('LEADER_TRIPLE_T_DSH', 'TRAIT_LEADER_TRIPLE_T_DSH_ABILITY');
 
 -- 8. In-Game Player Colors
 INSERT INTO PlayerColors (Type, Usage, PrimaryColor, SecondaryColor, TextColor)
-VALUES  ('LEADER_TRIPLE_T_DSH', 'Unique', 'COLOR_PLAYER_WHITE_TEXT', 'COLOR_PLAYER_BLACK_BACKGROUND', 'COLOR_PLAYER_WHITE_TEXT');
+VALUES  ('LEADER_TRIPLE_T_DSH', 'Unique', 'COLOR_PLAYER_WHITE_TEXT', 'COLOR_PLAYER_Transparent_Background', 'COLOR_PLAYER_WHITE_TEXT');
 
 -- 9. AI Agenda and Quotes
 INSERT INTO HistoricalAgendas (LeaderType, AgendaType)

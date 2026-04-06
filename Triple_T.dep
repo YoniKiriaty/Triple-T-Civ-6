@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..ModArtDependency>
+    <m_Version>
+        <major>1</major>
+        <minor>0</minor>
+        <build>0</build>
+        <revision>0</revision>
+    </m_Version>
+    <m_ArtDefDependencies>
+        <Element>
+            <m_LibraryName text="Leaders"/>
+            <m_PackageName text="LeaderFallbacks.artdef"/>
+        </Element>
+    </m_ArtDefDependencies>
+    <m_BLPs>
+        <Element>
+            <m_PackageName text="LeaderFallbacks.blp"/>
+        </Element>
+    </m_BLPs>
+</AssetObjects..ModArtDependency>

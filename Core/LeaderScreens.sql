@@ -3,15 +3,7 @@
 INSERT INTO LoadingInfo (LeaderType, ForegroundImage, BackgroundImage)
 VALUES  (
     'LEADER_TRIPLE_T_DSH', 
-    'Portrait.dds',   
-    'Black_Background.dds' -- The background art
+    'Triple_T_Portrait.dds',   
+    'Transparent_Background.dds' -- The background art
 
-);
-
--- 2. DIPLOMACY SCREEN BACKGROUND
--- This handles the environment behind your leader when you talk to them in-game
-INSERT INTO DiplomacyInfo (Type, BackgroundImage)
-VALUES  (
-    'LEADER_TRIPLE_T_DSH', 
-    'Black_Background.dds' -- The background art
 );
