@@ -3,8 +3,9 @@
 INSERT INTO LoadingInfo (LeaderType, ForegroundImage, BackgroundImage)
 VALUES  (
     'LEADER_TRIPLE_T_DSH', 
-    NULL,
-    'Portrait.dds'   -- The background behind them
+    'Portrait.dds',   
+    'Black_Background.dds' -- The background art
+
 );
 
 -- 2. DIPLOMACY SCREEN BACKGROUND
@@ -12,5 +13,5 @@ VALUES  (
 INSERT INTO DiplomacyInfo (Type, BackgroundImage)
 VALUES  (
     'LEADER_TRIPLE_T_DSH', 
-    'Diplomacy.dds' -- The background art
+    'Black_Background.dds' -- The background art
 );

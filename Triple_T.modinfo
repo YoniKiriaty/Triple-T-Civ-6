@@ -34,7 +34,7 @@
       <!-- Brainrot_Civ icons end -->
 
       <!-- Diplomacy & Portrait start -->
-      <File>Icons/Diplomacy.dds</File>
+      <File>Icons/Black_Background.dds</File>
       <File>Icons/Portrait.dds</File>
       <!-- Diplomacy & Portrait end -->
     </ImportFiles>
@@ -78,7 +78,7 @@
       <!-- Brainrot_Civ icons end -->
 
       <!-- Diplomacy & Portrait start -->
-      <File>Icons/Diplomacy.dds</File>
+      <File>Icons/Black_Background.dds</File>
       <File>Icons/Portrait.dds</File>
       <!-- Diplomacy & Portrait end -->
     </ImportFiles>
@@ -127,7 +127,7 @@
     <!-- Brainrot_Civ icons end -->
 
     <!-- Diplomacy & Portrait start -->
-    <File>Icons/Diplomacy.dds</File>
+    <File>Icons/Black_Background.dds</File>
     <File>Icons/Portrait.dds</File>
     <!-- Diplomacy & Portrait end -->
 
